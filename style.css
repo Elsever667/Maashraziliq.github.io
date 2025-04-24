@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f0f8ff;
+  margin-top: 100px;
+}
+
+.button-group {
+  margin-top: 30px;
+}
+
+button {
+  padding: 15px 25px;
+  font-size: 18px;
+  margin: 10px;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.19s ease;
+}
+
+#cavab {
+  font-size: 24px;
+  margin-top: 30px;
+  color: green;
+  font-weight: bold;
+}
